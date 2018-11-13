@@ -1,0 +1,1 @@
+### python rename android zip drawable
